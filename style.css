@@ -22,6 +22,21 @@ body {
     margin-top: 16px;
 }
 
+.glyphs a {
+    font-size: 12px;
+    color: #506a85;
+    font-family: "Source Sans Pro", sans-serif;
+    margin: -15px;
+}
+
+.email {
+    margin-left: 100px; 
+    margin-top: 16px;
+    color: #506a85;
+    font-size: 12px;
+    font-family: "Source Sans Pro", sans-serif;
+}
+
 .phoneNumber {
     margin-top: 16px;
     font-size: 12px;
